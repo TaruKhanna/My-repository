@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 16:38:17 IST 2020
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1584959429957
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:5.0.10.RELEASE from/to spring-snapshots (https\://repo.spring.io/snapshot)\: The operation was cancelled.
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:5.0.10.RELEASE from/to spring-milestones (https\://repo.spring.io/milestone)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1584961697413
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1584959430011

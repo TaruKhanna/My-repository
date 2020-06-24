@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 11:41:59 IST 2020
+http\://repo.spring.io/plugins-release/.error=Could not transfer artifact com.qaprosoft\:carina-api\:pom\:6.0.351-SNAPSHOT from/to springio-plugins-release (http\://repo.spring.io/plugins-release/)\: The operation was cancelled.
+@default-jitpack.io-https\://jitpack.io/.lastUpdated=1584943919810
+@default-qaprosoft_3rdparty-https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.lastUpdated=1584943919819
+@default-springio-plugins-release-http\://repo.spring.io/plugins-release/.lastUpdated=1584943919828
+https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.error=Could not transfer artifact com.qaprosoft\:carina-api\:pom\:6.0.351-SNAPSHOT from/to qaprosoft_3rdparty (https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/)\: The operation was cancelled.
+@default-qaprosoft_snapshots-https\://ci.qaprosoft.com/nexus/content/repositories/snapshots/.lastUpdated=1584943919802
+https\://jitpack.io/.error=Could not transfer artifact com.qaprosoft\:carina-api\:pom\:6.0.351-SNAPSHOT from/to jitpack.io (https\://jitpack.io)\: The operation was cancelled.
+https\://ci.qaprosoft.com/nexus/content/repositories/snapshots/.error=Could not transfer artifact com.qaprosoft\:carina-api\:pom\:6.0.351-SNAPSHOT from/to qaprosoft_snapshots (https\://ci.qaprosoft.com/nexus/content/repositories/snapshots/)\: The operation was cancelled.

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 13:06:50 IST 2020
+https\://jitpack.io/.error=
+@default-springio-plugins-release-http\://repo.spring.io/plugins-release/.lastUpdated=1584943919651
+https\://jitpack.io/.lastUpdated=1584943919586
+https\://repo.maven.apache.org/maven2/.lastUpdated=1584949010126
+@default-qaprosoft_3rdparty-https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.lastUpdated=1584943919626
+http\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:4.1.1.RELEASE from/to springio-plugins-release (http\://repo.spring.io/plugins-release/)\: The operation was cancelled.
+https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:4.1.1.RELEASE from/to qaprosoft_3rdparty (https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/)\: The operation was cancelled.

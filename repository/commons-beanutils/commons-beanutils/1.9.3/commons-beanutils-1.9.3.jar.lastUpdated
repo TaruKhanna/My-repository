@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 16:38:07 IST 2020
+@default-springio-plugins-release-https\://repo.spring.io/plugins-release/.lastUpdated=1584959429769
+https\://repo.maven.apache.org/maven2/.lastUpdated=1584961687830
+@default-qaprosoft_3rdparty-https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.lastUpdated=1584959429342
+https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.error=Could not transfer artifact commons-beanutils\:commons-beanutils\:jar\:1.9.3 from/to qaprosoft_3rdparty (https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/)\: The operation was cancelled.
+https\://repo.spring.io/plugins-release/.error=Could not transfer artifact commons-beanutils\:commons-beanutils\:jar\:1.9.3 from/to springio-plugins-release (https\://repo.spring.io/plugins-release/)\: The operation was cancelled.

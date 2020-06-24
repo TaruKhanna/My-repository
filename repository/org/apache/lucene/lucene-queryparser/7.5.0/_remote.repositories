@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 17:00:38 IST 2020
+lucene-queryparser-7.5.0.jar>central=
+lucene-queryparser-7.5.0.pom>central=
+lucene-queryparser-7.5.0-sources.jar>central=

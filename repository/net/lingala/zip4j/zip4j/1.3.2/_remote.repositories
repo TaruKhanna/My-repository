@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 16:56:59 IST 2020
+zip4j-1.3.2.jar>central=
+zip4j-1.3.2.pom>central=
+zip4j-1.3.2-sources.jar>central=

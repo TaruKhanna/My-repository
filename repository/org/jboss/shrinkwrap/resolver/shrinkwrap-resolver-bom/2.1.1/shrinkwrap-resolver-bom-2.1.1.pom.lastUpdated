@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 11:37:01 IST 2020
+https\://jitpack.io/.lastUpdated=1584943620194
+https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.lastUpdated=1584943620485
+http\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.1.1 from/to springio-plugins-release (http\://repo.spring.io/plugins-release/)\: Access denied to http\://repo.spring.io/plugins-release/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom. Error code 403, Forbidden
+https\://repo.maven.apache.org/maven2/.lastUpdated=1584943621361
+https\://ci.qaprosoft.com/nexus/content/repositories/thirdparty/.error=
+@default-springio-plugins-release-http\://repo.spring.io/plugins-release/.lastUpdated=1584943620791
+https\://jitpack.io/.error=
